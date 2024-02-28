@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Middle from "./components/Middle";
 import Blog from "./components/Blog";
 import Footer from "./components/Footer";
+import Best from "./components/Best";
 
 export default function App() {
 
@@ -11,6 +12,7 @@ export default function App() {
       <Navbar />
       <Middle />
       <Blog />
+      <Best />
       <Footer />
     </>
   );

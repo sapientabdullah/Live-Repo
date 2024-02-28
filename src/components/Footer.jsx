@@ -10,6 +10,8 @@ import {
   InputGroup,
   InputRightElement,
   Button,
+  Link,
+  Highlight,
 } from "@chakra-ui/react";
 
 export default function Footer() {
@@ -17,15 +19,19 @@ export default function Footer() {
     <Box as="footer" bg="black" h="3xs" m="1.5" borderRadius="lg">
       <HStack justifyContent="space-between" mx="6">
         <VStack alignItems="left">
-          <Heading
-            size="lg"
-            mt={["4", "3.5", "3.5"]}
-            bgGradient="linear(to-r, white, green.100)"
-            bgClip="text"
-          >
-            Live
+          <Heading size="lg" mt={["4", "5", "5"]}>
+            <Highlight
+              query={"Live"}
+              styles={{
+                rounded: "full",
+                bgGradient: "linear(to-r, white, green.100)",
+                bgClip: "text",
+              }}
+            >
+              Live
+            </Highlight>
           </Heading>
-          <Text maxW={350} mt="3" fontSize="sm" color="whiteAlpha.800">
+          <Text maxW={350} mt="3" fontSize="sm" color="whiteAlpha.700">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quo,
             voluptatem quis et sint debitis.
           </Text>
@@ -33,7 +39,25 @@ export default function Footer() {
             ©2024 Live. All rights reserved.
           </Text>
         </VStack>
-        <VStack alignItems="left" spacing="8" mt="6">
+        <VStack alignItems="left" spacing="8" mt="6" color="whiteAlpha.900">
+          <Link href="#">About Us</Link>
+          <Link href="#" color="whiteAlpha.700">
+            Blog
+          </Link>
+          <Link href="#" color="whiteAlpha.700">
+            Career
+          </Link>
+        </VStack>
+        <VStack alignItems="left" spacing="8" mt="6" color="whiteAlpha.900">
+          <Link href="#">Support</Link>
+          <Link href="#" color="whiteAlpha.700">
+            Contact Us
+          </Link>
+          <Link href="#" color="whiteAlpha.700">
+            FAQ
+          </Link>
+        </VStack>
+        <VStack alignItems="left" spacing="9" mt="6">
           <Heading size="md" color="whiteAlpha.900">
             Get Updates
           </Heading>

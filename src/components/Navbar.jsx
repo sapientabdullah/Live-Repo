@@ -15,6 +15,7 @@ import {
   Avatar,
   Stack,
   Icon,
+  Highlight,
 } from "@chakra-ui/react";
 
 import { ChevronRightIcon, SearchIcon, InfoIcon } from "@chakra-ui/icons";
@@ -28,19 +29,22 @@ export default function Navbar() {
       bgRepeat="no-repeat"
       borderRadius="lg"
       h="2xl"
-      backgroundSize="cover"
+      bgSize="cover"
       m="1.5"
       color="whiteAlpha.900"
     >
       <HStack color="whiteAlpha.900" justify="space-between" mx="6">
-        <Heading
-          as="md"
-          size="lg"
-          mt={["4", "3.5", "3.5"]}
-          bgGradient="linear(to-r, white, green.100)"
-          bgClip="text"
-        >
-          Live
+        <Heading as="md" size="lg" mt={["4", "3.5", "3.5"]}>
+          <Highlight
+            query={"Live"}
+            styles={{
+              rounded: "full",
+              bgGradient: "linear(to-r, white, green.100)",
+              bgClip: "text",
+            }}
+          >
+            Live
+          </Highlight>
         </Heading>
 
         <Breadcrumb

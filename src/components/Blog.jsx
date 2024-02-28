@@ -93,7 +93,7 @@ export default function Blog() {
                 24 Feb, 2024 • 7 mins read
               </Text>
               <Heading mt="3" fontSize="xl">
-                Capturing Walton Lighthouse at Sunrise
+                A Harmony of Books and Waves
               </Heading>
               <Text mt="3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
@@ -105,12 +105,12 @@ export default function Blog() {
           <CardFooter>
             <Avatar
               size="sm"
-              name="Elena Donovan"
-              src="https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              name="Liam Bennett"
+              src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               objectFit="cover"
             />
             <Text ml="3" mt="1" fontSize="sm">
-              Elena Donovan
+              Liam Bennett
             </Text>
           </CardFooter>
         </Card>
@@ -142,7 +142,7 @@ export default function Blog() {
                 22 Feb, 2024 • 6 mins read
               </Text>
               <Heading mt="3" fontSize="xl">
-                Capturing Walton Lighthouse at Sunrise
+                Exploring San Francisco's Charms
               </Heading>
               <Text mt="3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
@@ -154,12 +154,12 @@ export default function Blog() {
           <CardFooter>
             <Avatar
               size="sm"
-              name="Elena Donovan"
-              src="https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              name="Elijah Thompson"
+              src="https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=2952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               objectFit="cover"
             />
             <Text ml="3" mt="1" fontSize="sm">
-              Elena Donovan
+              Elijah Thompson
             </Text>
           </CardFooter>
         </Card>
@@ -191,7 +191,7 @@ export default function Blog() {
                 20 Feb, 2024 • 10 mins read
               </Text>
               <Heading mt="3" fontSize="xl">
-                Capturing Walton Lighthouse at Sunrise
+                A Culinary Journey into Japanese Delicacy
               </Heading>
               <Text mt="3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
@@ -203,12 +203,12 @@ export default function Blog() {
           <CardFooter>
             <Avatar
               size="sm"
-              name="Elena Donovan"
-              src="https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              name="Michael Blake"
+              src="https://images.unsplash.com/photo-1488161628813-04466f872be2?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               objectFit="cover"
             />
             <Text ml="3" mt="1" fontSize="sm">
-              Elena Donovan
+              Michael Blake
             </Text>
           </CardFooter>
         </Card>
@@ -242,7 +242,7 @@ export default function Blog() {
                 14 Feb, 2024 • 7 mins read
               </Text>
               <Heading mt="3" fontSize="xl">
-                Capturing Walton Lighthouse at Sunrise
+                The Art of Journaling
               </Heading>
               <Text mt="3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
@@ -254,12 +254,12 @@ export default function Blog() {
           <CardFooter>
             <Avatar
               size="sm"
-              name="Elena Donovan"
-              src="https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              name="Isabella Donovan"
+              src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               objectFit="cover"
             />
             <Text ml="3" mt="1" fontSize="sm">
-              Elena Donovan
+              Isabella Donovan
             </Text>
           </CardFooter>
         </Card>
@@ -291,7 +291,7 @@ export default function Blog() {
                 10 Feb, 2024 • 8 mins read
               </Text>
               <Heading mt="3" fontSize="xl">
-                Capturing Walton Lighthouse at Sunrise
+                Swiss Wonders
               </Heading>
               <Text mt="3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
@@ -303,12 +303,12 @@ export default function Blog() {
           <CardFooter>
             <Avatar
               size="sm"
-              name="Elena Donovan"
-              src="https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              name="Elena Harper"
+              src="https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               objectFit="cover"
             />
             <Text ml="3" mt="1" fontSize="sm">
-              Elena Donovan
+              Elena Harper
             </Text>
           </CardFooter>
         </Card>
@@ -340,7 +340,7 @@ export default function Blog() {
                 26 Jan, 2024 • 7 mins read
               </Text>
               <Heading mt="3" fontSize="xl">
-                Capturing Walton Lighthouse at Sunrise
+                The Essence of Italian Pizza
               </Heading>
               <Text mt="3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
@@ -352,12 +352,12 @@ export default function Blog() {
           <CardFooter>
             <Avatar
               size="sm"
-              name="Elena Donovan"
-              src="https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              name="Johan Bender"
+              src="https://images.unsplash.com/photo-1616507463730-6506dc4654f5?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               objectFit="cover"
             />
             <Text ml="3" mt="1" fontSize="sm">
-              Elena Donovan
+              Johan Bender
             </Text>
           </CardFooter>
         </Card>
@@ -389,7 +389,7 @@ export default function Blog() {
                 20 Jan, 2024 • 11 mins read
               </Text>
               <Heading mt="3" fontSize="xl">
-                Capturing Walton Lighthouse at Sunrise
+                High Life: Living in a New York Penthouse
               </Heading>
               <Text mt="3">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
@@ -401,17 +401,17 @@ export default function Blog() {
           <CardFooter>
             <Avatar
               size="sm"
-              name="Elena Donovan"
-              src="https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              name="John Doe"
+              src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               objectFit="cover"
             />
             <Text ml="3" mt="1" fontSize="sm">
-              Elena Donovan
+              John Doe
             </Text>
           </CardFooter>
         </Card>
       </Stack>
-      <Divider m="6" />
+      <Divider mt="10" />
     </Box>
   );
 }
